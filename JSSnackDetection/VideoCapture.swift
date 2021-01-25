@@ -1,8 +1,8 @@
 //
-//  VideoCapture.swift
-//  SnackLocalization
+//  ViewController.swift
+//  JSSnackDetection
 //
-//  Created by zb-nju on 2020/12/3.
+//  Created by 辛泽西 on 2021/1/25.
 //
 
 import AVFoundation
